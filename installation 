@@ -1,0 +1,22 @@
+             Termux
+Install
+NPM Installation
+Upgrade
+   
+Known Issues
+Git won't work in /sdcard
+Many extensions including language packs fail to install
+Extra
+Keyboard Shortcuts and Tab Key
+Create a new user
+Install Go
+Install Python
+Install
+Get Termux from F-Droid.
+Run pkg install tur-repo
+Run pkg install code-server
+You can now start code server by simply running code-server.
+NPM Installation
+Get Termux from F-Droid.
+
+We will now  using the following commands. 
